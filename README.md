@@ -37,7 +37,17 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 > Practical IT guides written from production experience → **[robztech.com](https://robztech.com)**
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Custom Teams Background Images via Intune — No Teams Premium Required](https://robztech.com/post/deploy-teams-backgrounds-intune-win32) — Intune, PowerShell, Automation- [iDRAC Inventory and User Management via RACADM](https://robztech.com/post/idrac-inventory-user-management-racadm) — Server, PowerShell, Automation- [Fix: Remote Desktop Management Service Failed to Start &lpar;0x88250001&rpar;](https://robztech.com/post/fix-remote-desktop-management-service-failed-to-start-0x88250001) — Server, PowerShell- [Upgrading an Azure Gen1 Windows 10 VM to Windows 11 via Trusted Launch](https://robztech.com/post/upgrading-azure-gen1-windows10-vm-to-windows11-trusted-launch) — Azure, Windows 11, PowerShell- [Convert Azure VMs from SCSI to NVMe with PowerShell](https://robztech.com/post/convert-azure-vm-scsi-to-nvme-powershell) — Azure, PowerShell, Automation- [Fix: Azure Recovery Services Agent Cannot Connect to OBEngine Service](https://robztech.com/post/status-name-system-state-message-azure-recovery-services) — Azure, PowerShell, Server- [Force Install Browser Extensions via Intune and PowerShell](https://robztech.com/post/deploy-any-browser-extension-intune-powershell) — Intune, PowerShell, Automation- [Prioritize Network Adapters with PowerShell](https://robztech.com/post/set-network-interface-metrics-powershell) — PowerShell, Automation, Windows 11- [Set DNS to Automatic &lpar;DHCP&rpar; via PowerShell](https://robztech.com/post/set-dns-auto-powershell) — PowerShell, Automation, Windows 11- [Export SharePoint Online Groups and Permissions to CSV](https://robztech.com/post/export-sharepoint-online-groups-permissions-csv) — SharePoint, PowerShell
+- [Deploy Custom Teams Background Images via Intune — No Teams Premium Required](https://robztech.com/post/deploy-teams-backgrounds-intune-win32) — Intune, PowerShell, Automation
+- [iDRAC Inventory and User Management via RACADM](https://robztech.com/post/idrac-inventory-user-management-racadm) — Server, PowerShell, Automation
+- [Fix: Remote Desktop Management Service Failed to Start &lpar;0x88250001&rpar;](https://robztech.com/post/fix-remote-desktop-management-service-failed-to-start-0x88250001) — Server, PowerShell
+- [Upgrading an Azure Gen1 Windows 10 VM to Windows 11 via Trusted Launch](https://robztech.com/post/upgrading-azure-gen1-windows10-vm-to-windows11-trusted-launch) — Azure, Windows 11, PowerShell
+- [Convert Azure VMs from SCSI to NVMe with PowerShell](https://robztech.com/post/convert-azure-vm-scsi-to-nvme-powershell) — Azure, PowerShell, Automation
+- [Fix: Azure Recovery Services Agent Cannot Connect to OBEngine Service](https://robztech.com/post/status-name-system-state-message-azure-recovery-services) — Azure, PowerShell, Server
+- [Force Install Browser Extensions via Intune and PowerShell](https://robztech.com/post/deploy-any-browser-extension-intune-powershell) — Intune, PowerShell, Automation
+- [Prioritize Network Adapters with PowerShell](https://robztech.com/post/set-network-interface-metrics-powershell) — PowerShell, Automation, Windows 11
+- [Set DNS to Automatic &lpar;DHCP&rpar; via PowerShell](https://robztech.com/post/set-dns-auto-powershell) — PowerShell, Automation, Windows 11
+- [Export SharePoint Online Groups and Permissions to CSV](https://robztech.com/post/export-sharepoint-online-groups-permissions-csv) — SharePoint, PowerShell
+
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub stats
