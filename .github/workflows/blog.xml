@@ -1,0 +1,18 @@
+name: Update blog posts
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # lets you run it manually too
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://robztech.com/feed.xml"
+          max_post_count: 8
+          template: "| [$title]($url) | $categories |<br>"
