@@ -22,5 +22,5 @@ jobs:
           max_post_count: 10
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
-          template: "- [$title]($url) — $categories"
+          template: "- [$title]($url) — $categories\n"
           tag_post_pre_newline: true
