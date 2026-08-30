@@ -12,11 +12,14 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://robztech.com/feed.xml"
           max_post_count: 10
           readme_path: README.md
-          comment_tag: BLOG-POST-LIST
+          comment_tag_name: BLOG-POST-LIST
           template: "- [$title]($url) — $categories"
