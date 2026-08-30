@@ -62,10 +62,12 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 
 ## GitHub stats
 
+## GitHub stats
+
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=robinvp90&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinvp90&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="155" src="https://github-stats-extended-frontend-eta-three.vercel.app/api?username=robinvp90&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+<img height="155" src="https://github-stats-extended-frontend-eta-three.vercel.app/api/top-langs/?username=robinvp90&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
 
