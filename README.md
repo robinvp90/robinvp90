@@ -39,7 +39,17 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 <table>
 <thead><tr><th>Post</th><th>Category</th></tr></thead>
 <tbody>
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://robztech.com/post/deploy-teams-backgrounds-intune-win32">Deploy Custom Teams Background Images via Intune — No Teams Premium Required</a></td><td>Intune, PowerShell, Automation</td></tr>
+<tr><td><a href="https://robztech.com/post/idrac-inventory-user-management-racadm">iDRAC Inventory and User Management via RACADM</a></td><td>Server, PowerShell, Automation</td></tr>
+<tr><td><a href="https://robztech.com/post/fix-remote-desktop-management-service-failed-to-start-0x88250001">Fix: Remote Desktop Management Service Failed to Start &lpar;0x88250001&rpar;</a></td><td>Server, PowerShell</td></tr>
+<tr><td><a href="https://robztech.com/post/upgrading-azure-gen1-windows10-vm-to-windows11-trusted-launch">Upgrading an Azure Gen1 Windows 10 VM to Windows 11 via Trusted Launch</a></td><td>Azure, Windows 11, PowerShell</td></tr>
+<tr><td><a href="https://robztech.com/post/convert-azure-vm-scsi-to-nvme-powershell">Convert Azure VMs from SCSI to NVMe with PowerShell</a></td><td>Azure, PowerShell, Automation</td></tr>
+<tr><td><a href="https://robztech.com/post/status-name-system-state-message-azure-recovery-services">Fix: Azure Recovery Services Agent Cannot Connect to OBEngine Service</a></td><td>Azure, PowerShell, Server</td></tr>
+<tr><td><a href="https://robztech.com/post/deploy-any-browser-extension-intune-powershell">Force Install Browser Extensions via Intune and PowerShell</a></td><td>Intune, PowerShell, Automation</td></tr>
+<tr><td><a href="https://robztech.com/post/set-network-interface-metrics-powershell">Prioritize Network Adapters with PowerShell</a></td><td>PowerShell, Automation, Windows 11</td></tr>
+<tr><td><a href="https://robztech.com/post/set-dns-auto-powershell">Set DNS to Automatic &lpar;DHCP&rpar; via PowerShell</a></td><td>PowerShell, Automation, Windows 11</td></tr>
+<tr><td><a href="https://robztech.com/post/export-sharepoint-online-groups-permissions-csv">Export SharePoint Online Groups and Permissions to CSV</a></td><td>SharePoint, PowerShell</td></tr>
+<!-- BLOG-POST-LIST:END -->
 </tbody>
 </table>
 
