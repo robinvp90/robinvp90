@@ -47,18 +47,8 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 
 > Practical IT guides written from production experience → **[robztech.com](https://robztech.com)**
 
-| Guide | Area |
-|---|---|
-| [Fix RDMS Failed to Start — 0x88250001](https://robztech.com/post/fix-remote-desktop-management-service-failed-to-start-0x88250001) | Windows Server |
-| [Upgrade Azure Gen1 VM to Windows 11 Trusted Launch](https://robztech.com/post/upgrading-azure-gen1-windows10-vm-to-windows11-trusted-launch) | Azure |
-| [Deploy Microsoft Entra Kerberos — Hybrid Cloud Trust](https://robztech.com/post/deploy-microsoft-entra-kerberos-hybrid-cloud-trust) | Entra ID |
-| [Force BitLocker Encryption via Intune](https://robztech.com/post/enable-bitlocker-intune) | Intune |
-| [Cisco AnyConnect Silent Install via PowerShell](https://robztech.com/post/cisco-anyconnect-silent-install-powershell) | PowerShell |
-| [Remove Default Store Apps via Intune](https://robztech.com/post/remove-default-windows-store-apps-intune) | Intune |
-| [SharePoint Long Path Scanner — Graph API](https://robztech.com/post/sharepoint-long-path-scanner-graph-api) | SharePoint |
-| [Deploy Any Browser Extension via Intune](https://robztech.com/post/deploy-any-browser-extension-intune-powershell) | Intune |
-
----
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## GitHub stats
 
