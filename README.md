@@ -16,30 +16,19 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 
 **Endpoint management**
 
-![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Windows Autopilot](https://img.shields.io/badge/Windows%20Autopilot-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+<img src="assets/skills-endpoint.svg" alt="Microsoft Intune, Windows Autopilot, Windows 11, Windows Server" />
 
 **Identity & access**
 
-![Entra ID](https://img.shields.io/badge/Entra%20ID-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Conditional Access](https://img.shields.io/badge/Conditional%20Access-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00B4D8?style=flat-square&logo=microsoft&logoColor=white)
-![Windows Hello](https://img.shields.io/badge/Windows%20Hello-0078D4?style=flat-square&logo=windows&logoColor=white)
+<img src="assets/skills-identity.svg" alt="Entra ID, Conditional Access, Microsoft Defender, Windows Hello" />
 
 **Microsoft 365 & cloud**
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat-square&logo=microsoft-onedrive&logoColor=white)
+<img src="assets/skills-m365.svg" alt="Microsoft 365, SharePoint, Azure, OneDrive" />
 
 **Automation & scripting**
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![RMM](https://img.shields.io/badge/RMM%20Platforms-333333?style=flat-square&logo=windows-terminal&logoColor=white)
+<img src="assets/skills-automation.svg" alt="PowerShell, Microsoft Graph, RMM Platforms" />
 
 ---
 
