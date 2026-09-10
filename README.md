@@ -39,7 +39,7 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 <table>
 <thead><tr><th>Post</th><th>Category</th></tr></thead>
 <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://robztech.com/post/deploy-teams-backgrounds-intune-win32">Deploy Custom Teams Background Images via Intune — No Teams Premium Required</a></td><td>Intune, PowerShell, Automation</td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://robztech.com/post/deploy-teams-backgrounds-intune-win32">Deploy Custom Teams Backgrounds via Intune Win32 — LogonTrigger, No Flash, No Teams Premium</a></td><td>Intune, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/idrac-inventory-user-management-racadm">iDRAC Inventory and User Management via RACADM</a></td><td>Server, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/fix-remote-desktop-management-service-failed-to-start-0x88250001">Fix: Remote Desktop Management Service Failed to Start &lpar;0x88250001&rpar;</a></td><td>Server, PowerShell</td></tr>
 <tr><td><a href="https://robztech.com/post/upgrading-azure-gen1-windows10-vm-to-windows11-trusted-launch">Upgrading an Azure Gen1 Windows 10 VM to Windows 11 via Trusted Launch</a></td><td>Azure, Windows 11, PowerShell</td></tr>
