@@ -39,8 +39,9 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 <table>
 <thead><tr><th>Post</th><th>Category</th></tr></thead>
 <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://robztech.com/post/retiring-ntlm-frequently-asked-questions">Retiring NTLM: Microsoft Publishes FAQ on Default Disablement Plans</a></td><td>Microsoft 365, Security</td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://robztech.com/post/deprecation-for-manifest-v2-mv2-browser-extensions-supp">Microsoft Edge Retires Manifest V2 Extension Support: What Admins Need to Do Before Enterprise Deprecation</a></td><td>Microsoft 365, Security</td></tr>
 <tr><td><a href="https://robztech.com/post/teams-admin-center-device-state-rules-and-health-alerts">Teams admin centre device state rules and health alerts retire in favour of the Teams Rooms Pro Management portal</a></td><td>Microsoft 365, Security</td></tr>
+<tr><td><a href="https://robztech.com/post/retiring-ntlm-frequently-asked-questions">Retiring NTLM: Microsoft Publishes FAQ on Default Disablement Plans</a></td><td>Microsoft 365, Security</td></tr>
 <tr><td><a href="https://robztech.com/post/deploy-teams-backgrounds-intune-win32">Deploy Custom Teams Backgrounds via Intune Win32 — LogonTrigger, No Flash, No Teams Premium</a></td><td>Intune, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/idrac-inventory-user-management-racadm">iDRAC Inventory and User Management via RACADM</a></td><td>Server, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/fix-remote-desktop-management-service-failed-to-start-0x88250001">Fix: Remote Desktop Management Service Failed to Start &lpar;0x88250001&rpar;</a></td><td>Server, PowerShell</td></tr>
@@ -48,7 +49,6 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 <tr><td><a href="https://robztech.com/post/convert-azure-vm-scsi-to-nvme-powershell">Convert Azure VMs from SCSI to NVMe with PowerShell</a></td><td>Azure, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/status-name-system-state-message-azure-recovery-services">Fix: Azure Recovery Services Agent Cannot Connect to OBEngine Service</a></td><td>Azure, PowerShell, Server</td></tr>
 <tr><td><a href="https://robztech.com/post/deploy-any-browser-extension-intune-powershell">Force Install Browser Extensions via Intune and PowerShell</a></td><td>Intune, PowerShell, Automation</td></tr>
-<tr><td><a href="https://robztech.com/post/set-network-interface-metrics-powershell">Prioritize Network Adapters with PowerShell</a></td><td>PowerShell, Automation, Windows 11</td></tr>
 <!-- BLOG-POST-LIST:END -->
 </tbody>
 </table>
