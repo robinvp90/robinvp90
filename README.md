@@ -41,8 +41,8 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 <tbody>
 <!-- BLOG-POST-LIST:START --><tr><td><a href="https://robztech.com/post/keep-windows-activation-automation-working-with-powersh">Keep Windows activation automation working with PowerShell</a></td><td>PowerShell, Windows</td></tr>
 <tr><td><a href="https://robztech.com/post/deprecation-for-manifest-v2-mv2-browser-extensions-supp">Microsoft Edge Retires Manifest V2 Extension Support: What Admins Need to Do Before Enterprise Deprecation</a></td><td>Microsoft 365, Security</td></tr>
-<tr><td><a href="https://robztech.com/post/retiring-ntlm-frequently-asked-questions">Retiring NTLM: Microsoft Publishes FAQ on Default Disablement Plans</a></td><td>Microsoft 365, Security</td></tr>
 <tr><td><a href="https://robztech.com/post/teams-admin-center-device-state-rules-and-health-alerts">Teams admin centre device state rules and health alerts retire in favour of the Teams Rooms Pro Management portal</a></td><td>Microsoft 365, Security</td></tr>
+<tr><td><a href="https://robztech.com/post/retiring-ntlm-frequently-asked-questions">Retiring NTLM: Microsoft Publishes FAQ on Default Disablement Plans</a></td><td>Microsoft 365, Security</td></tr>
 <tr><td><a href="https://robztech.com/post/deploy-teams-backgrounds-intune-win32">Deploy Custom Teams Backgrounds via Intune Win32 — LogonTrigger, No Flash, No Teams Premium</a></td><td>Intune, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/idrac-inventory-user-management-racadm">iDRAC Inventory and User Management via RACADM</a></td><td>Server, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/fix-remote-desktop-management-service-failed-to-start-0x88250001">Fix: Remote Desktop Management Service Failed to Start &lpar;0x88250001&rpar;</a></td><td>Server, PowerShell</td></tr>
