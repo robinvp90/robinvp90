@@ -39,16 +39,16 @@ I document real production work at **[robztech.com](https://robztech.com)**: err
 <table>
 <thead><tr><th>Post</th><th>Category</th></tr></thead>
 <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://robztech.com/post/introducing-ewsallowedappids-preparing-for-the-final-ph">EWSAllowedAppIDs: Exchange Online Introduces an App ID Allow List Ahead of EWS Retirement</a></td><td>Microsoft 365, Security</td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://robztech.com/post/ews-deprecation-is-here-what-this-means-to-you">EWS Deprecation Is Here: EWSAllowedAppIDs Becomes Mandatory in Exchange Online</a></td><td>Microsoft 365, Security</td></tr>
+<tr><td><a href="https://robztech.com/post/introducing-ewsallowedappids-preparing-for-the-final-ph">EWSAllowedAppIDs: Exchange Online Introduces an App ID Allow List Ahead of EWS Retirement</a></td><td>Microsoft 365, Security</td></tr>
 <tr><td><a href="https://robztech.com/post/keep-windows-activation-automation-working-with-powersh">Keep Windows activation automation working with PowerShell</a></td><td>PowerShell, Windows</td></tr>
 <tr><td><a href="https://robztech.com/post/deprecation-for-manifest-v2-mv2-browser-extensions-supp">Microsoft Edge Retires Manifest V2 Extension Support: What Admins Need to Do Before Enterprise Deprecation</a></td><td>Microsoft 365, Security</td></tr>
-<tr><td><a href="https://robztech.com/post/teams-admin-center-device-state-rules-and-health-alerts">Teams admin centre device state rules and health alerts retire in favour of the Teams Rooms Pro Management portal</a></td><td>Microsoft 365, Security</td></tr>
 <tr><td><a href="https://robztech.com/post/retiring-ntlm-frequently-asked-questions">Retiring NTLM: Microsoft Publishes FAQ on Default Disablement Plans</a></td><td>Microsoft 365, Security</td></tr>
+<tr><td><a href="https://robztech.com/post/teams-admin-center-device-state-rules-and-health-alerts">Teams admin centre device state rules and health alerts retire in favour of the Teams Rooms Pro Management portal</a></td><td>Microsoft 365, Security</td></tr>
 <tr><td><a href="https://robztech.com/post/deploy-teams-backgrounds-intune-win32">Deploy Custom Teams Backgrounds via Intune Win32 — LogonTrigger, No Flash, No Teams Premium</a></td><td>Intune, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/idrac-inventory-user-management-racadm">iDRAC Inventory and User Management via RACADM</a></td><td>Server, PowerShell, Automation</td></tr>
 <tr><td><a href="https://robztech.com/post/fix-remote-desktop-management-service-failed-to-start-0x88250001">Fix: Remote Desktop Management Service Failed to Start &lpar;0x88250001&rpar;</a></td><td>Server, PowerShell</td></tr>
 <tr><td><a href="https://robztech.com/post/upgrading-azure-gen1-windows10-vm-to-windows11-trusted-launch">Upgrading an Azure Gen1 Windows 10 VM to Windows 11 via Trusted Launch</a></td><td>Azure, Windows 11, PowerShell</td></tr>
-<tr><td><a href="https://robztech.com/post/convert-azure-vm-scsi-to-nvme-powershell">Convert Azure VMs from SCSI to NVMe with PowerShell</a></td><td>Azure, PowerShell, Automation</td></tr>
 <!-- BLOG-POST-LIST:END -->
 </tbody>
 </table>
